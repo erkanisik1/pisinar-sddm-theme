@@ -1,0 +1,18 @@
+[SddmGreeterTheme]
+Name=Pisi-Nar
+Description=Pisi Nar sddm theme
+Author=Erkan IŞIK Murat Özgün
+ImageCreator=Murat Özgün
+CreatorEmail=mrtthings@gmail.com
+Copyright=(c) 2022, Erkan IŞIK
+License=GPL 3+
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/erkanisik1/sddm-theme/PisiNar
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=erkanisik@pisilinux.org
+Theme-Id=Pisi-Nar
+Theme-API=2.0
